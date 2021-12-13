@@ -1,10 +1,10 @@
 {
   "name": "github-vscode-theme",
-  "displayName": "GitHub Theme",
-  "description": "GitHub theme for VS Code",
+  "displayName": "Kiviro Theme",
+  "description": "GitHub theme for Kiviro",
   "version": "5.1.0",
   "preview": true,
-  "publisher": "GitHub",
+  "publisher": "KiviroThemes",
   "license": "MIT",
   "icon": "icon.png",
   "galleryBanner": {
@@ -13,7 +13,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/primer/github-vscode-theme"
+    "url": "https://github.com/VedantSuryawanshi/github-vscode-theme"
   },
   "bugs": {
     "url": "https://github.com/primer/github-vscode-theme/issues"
@@ -25,6 +25,7 @@
     "Themes"
   ],
   "keywords": [
+    "kiviro"
     "theme",
     "github",
     "light",
